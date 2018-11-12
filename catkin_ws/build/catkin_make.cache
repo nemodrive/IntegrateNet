@@ -1,0 +1,2 @@
+steering
+-DCATKIN_DEVEL_PREFIX=/apollo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/apollo/catkin_ws/install -G Unix Makefiles

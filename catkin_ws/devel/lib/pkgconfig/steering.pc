@@ -1,0 +1,8 @@
+prefix=/apollo/catkin_ws/devel
+
+Name: steering
+Description: Description of steering
+Version: 0.0.0
+Cflags: 
+Libs: -L/apollo/catkin_ws/devel/lib 
+Requires: 
